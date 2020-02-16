@@ -1,3 +1,5 @@
+its a DIRECT DFS problem..
+
 #include<bits/stdc++.h>
 using namespace std;
 #define sz 100000
