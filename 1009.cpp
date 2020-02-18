@@ -1,3 +1,6 @@
+// i have to find the maximum number of lykan or vampire for every connected components....
+
+
 #include<bits/stdc++.h>
 using namespace std;
 #define sz 20005
